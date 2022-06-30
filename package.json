@@ -1,8 +1,11 @@
 {
-	"name": "@hyperupcall/foxtrot-nodejs",
+	"name": "@hyperupcall/hyperupcall-nodejs",
 	"version": "0.1.0",
 	"main": "index.js",
 	"author": "Edwin Kofler <edwin@kofler.dev> (https://edwinkofler.com)",
 	"license": "NOT LICENSED",
-	"type": "module"
+	"type": "module",
+	"devDependencies": {
+		"@types/node": "^18.0.0"
+	}
 }
